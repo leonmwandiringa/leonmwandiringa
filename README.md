@@ -1,6 +1,6 @@
 ## ➜ cat ./whoami
 
-Hi my name is <em><strong>Leon Mwandiringa</strong></em>.
+Hi my name is <strong>Leon Mwandiringa</strong>.
 
 I am a Cloud Engineer passionate about designing, automating, and optimizing scalable cloud infrastructure. With expertise in multi-cloud environments (AWS, Azure, GCP), Infrastructure as Code (IaC), DevOps practices, and cloud security, I build resilient and efficient systems that drive business growth.
 
@@ -12,7 +12,7 @@ I have held positions as a Software Engineer, Data Engineer, DevSecops Engineer,
 
 ## I use
 
-- CLOUD ( AWS , AZURE , GCP )
+- CLOUD ----- ( AWS , AZURE , GCP )
 - ORCHESTRATION ( KUBERNETES, AWS ECS, DOCKER )
 - IAC ( AWS CLOUDFORMATION, TERRAFORM, PULUMI )
 - OS ( UBUNTU, KALI LINUX, REDHAT LINUX)
